@@ -1,5 +1,0 @@
-CV Has To Be Added
-
-Signup And Setup web3api then get the public access key
-
-Web3api access key has to be submit
